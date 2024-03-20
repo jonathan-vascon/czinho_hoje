@@ -35,3 +35,12 @@ button {
     color: blue;
     font-weight: 600;
 }
+
+.frase { 
+    position: relative;
+    align-items: center;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
